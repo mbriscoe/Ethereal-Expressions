@@ -54,10 +54,10 @@ h3 {
 
 /* Hero section */
 #hero {
-  height: 500px;
+  /* height: 500px;
   width: 100%;
   background: url('../images/hero.jpg') no-repeat center center/cover;
-  position: relative;
+  position: relative; */
 }
 
 #cover-text {
@@ -72,8 +72,8 @@ h3 {
   height: 10%;
 }
 
-#cover-text > h2,
-#cover-text > h3 {
+#cover-text>h2,
+#cover-text>h3 {
   color: #ffffff;
 }
 
