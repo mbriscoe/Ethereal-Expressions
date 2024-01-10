@@ -61,6 +61,11 @@ h3 {
   color: black;
 }
 
+/* MENU */
+.navbar a:hover {
+  border-bottom: 2px solid rgb(255, 0, 0);
+}
+
 /* FOOTER */
 footer {
   position: absolute;
