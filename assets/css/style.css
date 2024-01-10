@@ -6,11 +6,50 @@
 @import url('gallery-style.css');
 @import url('contact-style.css');
 
-/* RESET MAINSTYTLES */
+/* RESET MAIN STYTLES */
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+/* COLOURS */
+.bg-color-1 {
+  background-color: #845ec2;
+}
+
+.bg-color-2 {
+  background-color: #c493ff;
+}
+
+.bg-color-3 {
+  background-color: #fefedf;
+}
+
+.bg-color-4 {
+  background-color: #d5cabd;
+}
+
+.text-color-1 {
+  background-color: #845ec2;
+}
+
+.text-color-2 {
+  background-color: #c493ff;
+}
+
+.text-color-3 {
+  background-color: #fefedf;
+}
+
+.text-color-4 {
+  background-color: #d5cabd;
+}
+
+h1,
+h2,
+h3 {
+  color: black;
 }
 
 /* Hero section */
