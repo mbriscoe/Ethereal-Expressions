@@ -18,6 +18,7 @@ body {
   min-height: 100vh;
   position: relative;
   margin: 0;
+  margin-top: 75px;
   /* padding-bottom: 130px; */ /* height of the footer */
   box-sizing: border-box;
 }
