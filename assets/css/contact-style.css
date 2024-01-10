@@ -5,3 +5,9 @@
 
 .contact-details {
 }
+
+.contact-details-image {
+    background: blueviolet url('../images/artist_portrait.png') no-repeat center;
+    background-size: cover;
+    height: 40vh;
+}
