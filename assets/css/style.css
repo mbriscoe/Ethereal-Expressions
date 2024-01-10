@@ -13,6 +13,10 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 /* COLOURS */
 .bg-color-1 {
   background-color: #845ec2;
