@@ -14,7 +14,12 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+  /* padding-bottom: 130px; */ /* height of the footer */
+  box-sizing: border-box;
 }
 
 /* COLOURS */
