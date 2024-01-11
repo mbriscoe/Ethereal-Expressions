@@ -1,14 +1,23 @@
 /* ABOUT PAGE STYLESHEET */
 
-.artist { 
-    background: url(../images/artist_portrait.png) no-repeat top center / cover;
-    max-width: 300px;
-    max-height: 300px;
+.about-h1 {
+    text-align: center;
+}
+
+.about-artist { 
+   background-image: url('../images/artist_portrait.png') no-repeat top center / cover;  
+    
+   
     
 
 }
-.paintingone {
+    .about-painting-one {
 
+        background-image: url('../images/collections/h/h1.webp')no-repeat top center / cover; 
+        
+    /* background: url ('../images/collections/h/h1.webp') no-repeat top center / cover;
+     background: url('../images/artist_portrait.png') no-repeat top center / cover;
+    */
 }
 
 /*
