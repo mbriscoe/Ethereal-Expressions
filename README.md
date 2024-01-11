@@ -13,15 +13,21 @@ _(am I responsive site image)_
 
 - **Basic design ideas**
 
+## Home Page
+![home-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/7a577631-48c3-41e1-b3ff-28ff473ac2f0)
 
+## About Page
+![about-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/9f05638c-6ff9-413c-ac5d-20b5dd70235c)
+
+## Gallery Page
+![gallery-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/126c0d7b-b504-4ca0-8e4d-d149d52c4b13)
+
+## Contact Page
+![contact-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/43c32720-3191-4bc7-b94b-56b3765a1351)
 
 - **User Stories**
 
 
-
-_(desktop wireframe images)_
-
-_(mobile wireframe images)_
 
 ## Features
 
