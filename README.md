@@ -81,7 +81,7 @@ _(contact page image)_
 
 ### Responsive Testing
 
-- Alongside the built in Bootstrap responsive CSS, media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the sit4e was manually viewed on laptops, tablets and phones.
+- Alongside the built in Bootstrap responsive CSS, media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the site was manually viewed on laptops, tablets and phones.
 
 
 _(am I responsive image)_
