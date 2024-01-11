@@ -65,6 +65,11 @@ _(gallery page image)_
 
 - **Contact Page**
 
+The contact page is comprised of two parts. First, there is a contact form for users to get in touch with the artist. This give options to submit either a general enquiry, a purchase enquiry or to contact about a commission. 
+
+The second part of the page deals with contact details for the artist giving a portrait photo, contact details and an embedded map showing her location.
+
+This page was structured using bootstrap., drawing upon W3Schools' [page](https://www.w3schools.com/bootstrap/bootstrap_forms.asp) which covers the necessary built-in classes.
 
 
 
@@ -76,7 +81,7 @@ _(contact page image)_
 
 ### Responsive Testing
 
-- Alongside the built in Bootstrap responsive CSS, media wueries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the sit4e was manually viewed on laptops, tablets and phones.
+- Alongside the built in Bootstrap responsive CSS, media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the sit4e was manually viewed on laptops, tablets and phones.
 
 
 _(am I responsive image)_
@@ -115,6 +120,7 @@ You can break the credits section up into Content and Media, depending on what y
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The formatting of the form in the contact page drew upon [W3Schools'](https://www.w3schools.com/bootstrap/bootstrap_forms.asp) resources.
 
 ### Media
 
