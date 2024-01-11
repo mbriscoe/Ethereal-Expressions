@@ -8,8 +8,7 @@
 /* Element Styling */
 
 .contact-form {
-    display: flex;
-    justify-content: center;
+    padding-left: 0;
 }
 
 .contact-form-field {
@@ -34,11 +33,13 @@
     background: rgb(43, 174, 226) url('../images/easel_in_studio.png') no-repeat top center;
     background-size: cover;
     height: 40vh;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .contact-details-map {
     text-align: center;
-    padding: 10px;
+    padding: 0px;
 }
 
 .contact-details-map iframe {
