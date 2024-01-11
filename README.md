@@ -29,7 +29,7 @@ _(mobile wireframe images)_
 
 - **Navigation Bar**
 
-Navigation is provided via a bootstrap navbar. CSS code has been added to underline menu items on hover and "Font Awesome" icons have been added to each menu item to add vidual clues.
+Navigation is provided via a bootstrap navbar. CSS code has been added to underline menu items on hover and tint the navbar for each page. Font Awesome icons have been added to each menu item to add visual clues.
 
 
 _(navbar image)_

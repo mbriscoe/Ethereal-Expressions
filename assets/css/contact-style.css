@@ -19,3 +19,8 @@
 .contact-details-map iframe {
     width: 100%;
 }
+
+.contact-details-icon {
+    margin-right: 10px;
+    width: 1em;
+}
