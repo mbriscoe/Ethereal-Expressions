@@ -10,11 +10,15 @@ p {
     text-align: justify;
 }
 
+span {
+    font-style: italic;
+}
+
 /*section one*/
 
 .about-section-one .about-div-one {
     padding-top: 15%;
-    padding-bottom: 10%;
+    padding-bottom: 8%;
 }
 
 /*section two*/
@@ -39,15 +43,5 @@ p {
     margin-bottom: 20px;
 }
 
-/*
-#circle-cover-bg {
-    background: url('../images/reasons-image.webp') no-repeat top center / cover;
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 20px;
-    border-radius: 50%;
-    max-width: 300px;
-    max-height: 300px;
-}
 
-*/
+
