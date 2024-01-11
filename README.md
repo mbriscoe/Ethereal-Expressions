@@ -58,7 +58,7 @@ _(home page image)_
 
 - **Gallery Page**
 
-
+The gallery page contains eight four-piece collections from the artist, displayed in a grid using Bootstrap CSS. The user can click on any of the pieces to see it full-size, and an on-hover shadow effect highlights image as the mouse passes over them.
 
 
 _(gallery page image)_
