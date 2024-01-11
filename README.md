@@ -25,7 +25,7 @@ _(am I responsive site image)_
 ## Contact Page
 ![contact-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/43c32720-3191-4bc7-b94b-56b3765a1351)
 
-- **User Stories**
+**User Stories**
 
 - As a user, I can use the menu, so that I can navigate the site
 - As a user, I would to have easy access to the artist's social media links, so that I can quickly see the relevant pages and explore their art/online presence.
