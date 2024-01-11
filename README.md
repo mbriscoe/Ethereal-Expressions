@@ -27,6 +27,14 @@ _(am I responsive site image)_
 
 - **User Stories**
 
+- As a user, I can use the menu, so that I can navigate the site
+- As a user, I would to have easy access to the artist's social media links, so that I can quickly see the relevant pages and explore their art/online presence.
+- As a user, I can click contact, so that I can contact the artist
+- As a user, I can view the home, so that I can see what the site is about
+- As a user, I can click on about menu, so that I can see the creative process
+- As a user, I can click gallery, so that I can see examples of the work
+- As a user, I can read titles on slides, so that I know which painting they come from
+- As a user, I can click on a carousel image, so that I can view a specific gallery category
 
 
 ## Features
