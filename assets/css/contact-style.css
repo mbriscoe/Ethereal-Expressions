@@ -8,6 +8,19 @@
 /* Element Styling */
 
 .contact-form {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-form-field {
+    border: 1px solid black;
+}
+
+.contact-form-submit {
+    background-color: rgb(43, 174, 226);
+    color: white;
+    font-weight: bold;
+    margin-bottom: 25px;
 }
 
 .contact-details {
