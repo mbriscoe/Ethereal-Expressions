@@ -11,3 +11,11 @@
     background-size: cover;
     height: 40vh;
 }
+
+.contact-details-map {
+    text-align: center;
+}
+
+.contact-details-map iframe {
+    width: 100%;
+}

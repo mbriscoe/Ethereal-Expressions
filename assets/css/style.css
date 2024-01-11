@@ -14,7 +14,13 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+  margin-top: 75px;
+  /* padding-bottom: 130px; */ /* height of the footer */
+  box-sizing: border-box;
 }
 
 /* COLOURS */
@@ -56,29 +62,9 @@ h3 {
   color: black;
 }
 
-/* Hero section */
-#hero {
-  /* height: 500px;
-  width: 100%;
-  background: url('../images/hero.jpg') no-repeat center center/cover;
-  position: relative; */
-}
-
-#cover-text {
-  background-color: rgba(255, 0, 17, 0.4);
-  font-size: 130%;
-  text-align: center;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  min-height: 150px;
-  padding-top: 40px;
-  height: 10%;
-}
-
-#cover-text>h2,
-#cover-text>h3 {
-  color: #ffffff;
+/* MENU */
+.navbar a:hover {
+  border-bottom: 2px solid rgb(255, 0, 0);
 }
 
 /* FOOTER */

@@ -1,6 +1,11 @@
 # Ethereal Expressions
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
+This project is to develop a website for the artist Adamma Anwen Lloyd, with the goal of showcasing her work and attracting potential clients or buyers. We aim to include a gallery page with high-quality images of her work, an about the artist page and a contact form for enquiries or purchases. 
+
+As far as the user is concerned, they should be able to view Adamma's work and contact her for any commissions or purchases. This should be covered within our intended site.
+
+In terms of design, there should be a cohesive colour scheme and set of styles across the whole site to reiterate the artist's brand. Site layout should enhance rather than impede the user experience to give a welcoming, intuitive feel. Finally, the site layout should be responsive to enable easy navigation on all devices.
+
 
 _(am I responsive site image)_
 
@@ -8,12 +13,11 @@ _(am I responsive site image)_
 
 - **Basic design ideas**
 
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
+
 
 - **User Stories**
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
+
+
 
 _(desktop wireframe images)_
 
@@ -21,57 +25,59 @@ _(mobile wireframe images)_
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
 
 - **Navigation Bar**
 
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
+Navigation is provided via a bootstrap navbar. CSS code has been added to underline menu items on hover and "Font Awesome" icons have been added to each menu item to add vidual clues.
+
 
 _(navbar image)_
 
 - **The Footer**
+The page footer is arranged in 2 rows. The first row contains social media links for the site and the second row contains links to the site team's GitHub pages.
+The footer layout was created using CSS flex.  
 
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
+
 
 _(footer image)_
 
 - **Home Page**
 
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
+
+
+
+_(home page image)_
+
+- **About Page**
+
+
+
 
 _(home page image)_
 
 - **Gallery Page**
 
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
+
+
 
 _(gallery page image)_
 
 - **Contact Page**
 
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
-  - Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sapiente magni tempore earum accusamus asperiores assumenda incidunt rerum aliquam doloribus consequatur voluptates distinctio, cum commodi eius sequi hic nam quae?
+
+
 
 _(contact page image)_
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Responsive Testing
 
-- Media Queries
-  - media query info
+- Alongside the built in Bootstrap responsive CSS, media wueries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the sit4e was manually viewed on laptops, tablets and phones.
+
 
 _(am I responsive image)_
 
@@ -90,16 +96,11 @@ _(css validator image)_
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
-
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The site was deployed to GitHub pages from the main branch of the repository. This enables continuous deployment of the site when changes are made.
 
 The live link can be found here - _(live link)_
 
