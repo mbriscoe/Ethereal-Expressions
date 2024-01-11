@@ -1,13 +1,24 @@
 /* CONTACT PAGE STYLESHEET */
 
+/* Heading styles */
+.contact-details-personal-heading {
+    margin-top: 10px;
+}
+
+/* Element Styling */
+
 .contact-form {
 }
 
 .contact-details {
 }
 
+.contact-artist-image {
+    padding-top: 10px;
+}
+
 .contact-details-image {
-    background: blueviolet url('../images/artist_portrait.png') no-repeat center;
+    background: blueviolet url('../images/artist_portrait.png') no-repeat top center;
     background-size: cover;
     height: 40vh;
 }
