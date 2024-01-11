@@ -10,6 +10,16 @@
 .contact-form {
 }
 
+.contact-form-field {
+    border: 1px solid black;
+}
+
+.contact-form-submit {
+    background-color: rgb(43, 174, 226);
+    color: white;
+    font-weight: bold;
+}
+
 .contact-details {
 }
 
@@ -26,6 +36,7 @@
 .contact-details-map {
     text-align: center;
     padding: 10px;
+    padding-top: 25px;
 }
 
 .contact-details-map iframe {
