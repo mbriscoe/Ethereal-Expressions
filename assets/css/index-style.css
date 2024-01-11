@@ -85,3 +85,6 @@
     border-color: red;
 }
 
+.home-image-paragraph-section-1 p, .home-image-paragraph-section-2 p {
+    font-size: 1.5em;
+}
