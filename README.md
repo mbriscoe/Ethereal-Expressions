@@ -11,18 +11,22 @@ _(am I responsive site image)_
 
 ## UX Design
 
-- **Basic design ideas**
+**Basic design ideas**
 
-## Home Page
+
+### Home Page Wireframe Design
 ![home-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/7a577631-48c3-41e1-b3ff-28ff473ac2f0)
 
-## About Page
+
+## About Page Wireframe Design
 ![about-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/9f05638c-6ff9-413c-ac5d-20b5dd70235c)
 
-## Gallery Page
+
+## Gallery Page Wireframe Design
 ![gallery-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/126c0d7b-b504-4ca0-8e4d-d149d52c4b13)
 
-## Contact Page
+
+## Contact Page Wireframe Design
 ![contact-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/43c32720-3191-4bc7-b94b-56b3765a1351)
 
 **User Stories**
@@ -45,19 +49,18 @@ _(am I responsive site image)_
 
 Navigation is provided via a bootstrap navbar. CSS code has been added to underline menu items on hover and tint the navbar for each page. Font Awesome icons have been added to each menu item to add visual clues.
 
+![readme-navbar](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/6278e0e9-371f-4190-8527-9988f7a4d5c4)
 
-_(navbar image)_
 
 - **The Footer**
+
 The page footer is arranged in 2 rows. The first row contains social media links for the site and the second row contains links to the site team's GitHub pages.
 The footer layout was created using CSS flex.  
 
+![readme-footer](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/3e936859-663d-4d57-9b4f-38e4c8627a01)
 
-
-_(footer image)_
 
 - **Home Page**
-
 
 
 
@@ -67,8 +70,7 @@ _(home page image)_
 
 
 
-
-_(home page image)_
+_(about page image)_
 
 - **Gallery Page**
 
