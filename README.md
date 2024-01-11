@@ -6,8 +6,8 @@ As far as the user is concerned, they should be able to view Adamma's work and c
 
 In terms of design, there should be a cohesive colour scheme and set of styles across the whole site to reiterate the artist's brand. Site layout should enhance rather than impede the user experience to give a welcoming, intuitive feel. Finally, the site layout should be responsive to enable easy navigation on all devices.
 
+![amiresponsive-index](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/142e1d42-da4d-4aba-a683-342923bc8e1e)
 
-_(am I responsive site image)_
 
 ## UX Design
 
@@ -86,14 +86,9 @@ This page was structured using bootstrap.
 
 ## Testing
 
-
-
 ### Responsive Testing
 
 - Alongside the built in Bootstrap responsive CSS, media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the site was manually viewed on laptops, tablets and phones.
-
-
-_(am I responsive image)_
 
 ### Validator Testing
 
@@ -108,28 +103,23 @@ _(am I responsive image)_
 
 _(css validator image)_
 
-### Unfixed Bugs
-
-
-
 ## Deployment
 
-- The site was deployed to GitHub pages from the main branch of the repository. This enables continuous deployment of the site when changes are made.
+- The site was deployed to GitHub pages from the main branch of the repository early in the developemnt stage for continuous deployment and checking.
 
-The live link can be found here - _(live link)_
+- The live link can be found here - [_(live link)_](https://mbriscoe.github.io/Ethereal-Expressions/)
 
 ## Credits
 
 ### Content
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- The formatting of the form in the contact page drew upon [W3Schools'](https://www.w3schools.com/bootstrap/bootstrap_forms.asp) resources.
+- The quotation that appears on our home page belongs to Arshile Gorky. We have found it at https://www.azquotes.com/quote/709942?ref=abstract-art
+- The icons in the header and footer were taken from [Font Awesome](https://fontawesome.com/)
+- The quotes on the home page were create by our team member Martina!
 
 ### Media
 
-- For this project, our team has made use of different platforms in order to obtain visual content.  The first platform that has been chosen for the content of this website is IDDLE, a platform that belongs to ChatGPT. This platform allows the user to generate images with AI without the need of a copyright license, which was suitable for our project. 
+- For this project, our team has made use of different platforms in order to obtain visual content. The first platform that has been chosen for the content of this website is IDDLE, a platform that belongs to ChatGPT. This platform allows the user to generate images with AI without the need of a copyright license, which was suitable for our project. 
 
 - However, it is worth mentioning that before generating our images, key aspects such as: the colour palette selection, the painting technique and the topics by which the different art collections would inspired,  all of these fundamental points, were the result of a dynamic creative process. Besides, our team was also in charge of the design of our protagonist character, its identity and collections. 
 
