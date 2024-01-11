@@ -137,5 +137,8 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- For this project, our team has made use of different platforms in order to obtain visual content.  The first platform that has been chosen for the content of this website is IDDLE, a platform that belongs to ChatGPT. This platform allows the user to generate images with AI without the need of a copyright license, which was suitable for our project. 
+
+- However, it is worth mentioning that before generating our images, key aspects such as: the colour palette selection, the painting technique and the topics by which the different art collections would inspired,  all of these fundamental points, were the result of a dynamic creative process. Besides, our team was also in charge of the design of our protagonist character, its identity and collections. 
+
+- Apart from using IDDLE for most of the visual elements in the website, as well, our team decided to utilise specific suitable images for our carousel on our home page. Firstly,  we visited the website  Unsplash .com and selected images that could be expanded nicely. With our selected images prepared, our team manipulated their sizes with the help of Adobe Fireworks, an image manipulation program.
