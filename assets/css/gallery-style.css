@@ -2,9 +2,7 @@
 
 /* Heading Styles */
 
-.gallery-heading{
-
-}
+.gallery-heading {}
 
 .gallery-collection-heading {
     margin-top: 20px;
@@ -22,10 +20,15 @@
 
 .gallery-collection-image {
     width: 100%;
+    filter: grayscale(50%);
+    transition: filter 1s;
+    ;
 }
 
 .gallery-collection-image:hover {
     cursor: pointer;
+    filter: none;
+    transition: filter 1s;
     /*border: 2px solid black;*/
 }
 
