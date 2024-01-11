@@ -19,7 +19,7 @@ body {
   position: relative;
   margin: 0;
   margin-top: 75px;
-  /* padding-bottom: 130px; */ /* height of the footer */
+  margin-bottom: 130px;
   box-sizing: border-box;
 }
 
