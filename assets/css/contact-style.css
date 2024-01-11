@@ -7,9 +7,11 @@
 
 /* Element Styling */
 
+/* Contact Form */
+
 .contact-form {
-    display: flex;
-    justify-content: center;
+    padding-left: 0;
+    margin-left: 0;
 }
 
 .contact-form-field {
@@ -23,8 +25,7 @@
     margin-bottom: 25px;
 }
 
-.contact-details {
-}
+/* Image */
 
 .contact-artist-image {
     padding-top: 10px;
@@ -34,18 +35,28 @@
     background: rgb(43, 174, 226) url('../images/easel_in_studio.png') no-repeat top center;
     background-size: cover;
     height: 40vh;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
-.contact-details-map {
-    text-align: center;
-    padding: 10px;
-}
+/* Contact Details */
 
-.contact-details-map iframe {
-    width: 100%;
+.contact-phone-row {
+    padding-bottom: 10px;
 }
 
 .contact-details-icon {
     margin-right: 10px;
     width: 1em;
+}
+
+/* Map */
+
+.contact-details-map {
+    text-align: center;
+    padding: 0px;
+}
+
+.contact-details-map iframe {
+    width: 100%;
 }
