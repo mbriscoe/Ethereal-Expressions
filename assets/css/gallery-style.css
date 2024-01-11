@@ -6,6 +6,34 @@
 
 }
 
+.gallery-collection-heading {
+    margin-top: 20px;
+}
+
+/* Gallery element styling */
+
+.gallery-collection-image-box {
+    padding: 12px 0;
+    width: 100%;
+}
+
 .gallery-collection-image {
     width: 100%;
+}
+
+.gallery-collection-image:hover {
+    cursor: pointer;
+    /*border: 2px solid black;*/
+}
+
+.gallery-collection-image-box:hover {
+    box-shadow: 10px 10px 10px;
+}
+
+/* Media Queries */
+
+@media screen and (min-width: 1000px) {
+    .gallery-collection-image-box {
+        padding: 0;
+    }
 }
