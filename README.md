@@ -1,5 +1,10 @@
 # Ethereal Expressions
 
+This project is to develop a website for the artist Adamma Anwen Lloyd, with the goal of showcasing her work and attracting potential clients or buyers. We aim to include a gallery page with high-quality images of her work, an about the artist page and a contact form for enquiries or purchases. 
+
+As far as the user is concerned, they should be able to view Adamma's work and contact her for any commissions or purchases. This should be covered within our intended site.
+
+In terms of design, there should be a cohesive colour scheme and set of styles across the whole site to reiterate the artist's brand. Site layout should enhance rather than impede the user experience to give a welcoming, intuitive feel. Finally, the site layout should be responsive to enable easy navigation on all devices.
 
 
 _(am I responsive site image)_
