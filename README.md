@@ -40,8 +40,6 @@ _(am I responsive site image)_
 
 ## Features
 
-
-
 - **Navigation Bar**
 
 Navigation is provided via a bootstrap navbar. CSS code has been added to underline menu items on hover and tint the navbar for each page. Font Awesome icons have been added to each menu item to add visual clues.
@@ -59,22 +57,20 @@ The footer layout was created using CSS flex.
 
 - **Home Page**
 
+![amiresponsive-index](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/aa86ebb5-e68b-4e42-8536-4e605799fa10)
 
-
-_(home page image)_
 
 - **About Page**
 
+![amiresponsive-about](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/0e44e6d5-6efe-49ae-8c16-ed46b25fc010)
 
-
-_(about page image)_
 
 - **Gallery Page**
 
 The gallery page contains eight four-piece collections from the artist, displayed in a grid using Bootstrap CSS. The user can click on any of the pieces to see it full-size, and an on-hover shadow effect highlights image as the mouse passes over them.
 
+![amiresponsive-gallery](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/5dea4234-8c38-4fd1-8e0c-2e863001c600)
 
-_(gallery page image)_
 
 - **Contact Page**
 
@@ -84,9 +80,9 @@ The second part of the page deals with contact details for the artist giving a p
 
 This page was structured using bootstrap.
 
+![amiresponsive-contact](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/35aa091f-62d6-4557-a52a-05a543820609)
 
 
-_(contact page image)_
 
 ## Testing
 
@@ -123,10 +119,6 @@ _(css validator image)_
 The live link can be found here - _(live link)_
 
 ## Credits
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
 
 ### Content
 
