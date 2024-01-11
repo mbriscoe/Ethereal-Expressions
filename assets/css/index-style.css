@@ -13,10 +13,6 @@
     border-radius: 10%;
 }
 
-#page-title {
-    margin-top: 2rem;
-}
-
 .carousel-control-prev {}
 
 /* Carousel Items/Images */
@@ -35,7 +31,9 @@
 
 /*-----------MAIN HEADING */
 
-.home-main-heading {}
+#page-title {
+    margin-top: 2rem;
+}
 
 .home-heading-icon-color1 {
     color: red;
@@ -45,7 +43,6 @@
     color: rgb(132, 94, 194)
 }
 
-
 .home-main-section {
     padding-bottom: 100px;
 }
@@ -53,13 +50,13 @@
 /*----------ARTIST IMAGE HEADING SECTION*/
 
 #circle-cover-bg {
-    background: url(../images/artist_portrait.png) no-repeat top center / cover;
     /* Create circle container for image to be used as background */
+    background: url(../images/artist-eyes.png) no-repeat top center / cover;
     width: 90vh;
     height: 90vh;
-    margin-bottom: 20px;
-    border-radius: 50%;
-    max-width: 200px;
+    margin-bottom: 0;
+    /* border-radius: 5%; */
+    max-width: 600px;
     max-height: 200px;
 }
 
