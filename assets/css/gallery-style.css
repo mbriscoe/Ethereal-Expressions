@@ -8,14 +8,16 @@
 
 .gallery-collection-heading {
     margin-top: 20px;
+    margin-bottom: 0px;
     font-weight: 200;
 }
 
 /* Gallery element styling */
 
 .gallery-collection-image-box {
-    padding: 12px 0;
+    padding: 0;
     width: 100%;
+    margin: 12px auto;
 }
 
 .gallery-collection-image {
