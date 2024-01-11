@@ -13,3 +13,7 @@
 .gallery-collection-image {
     width: 100%;
 }
+
+.gallery-collection-image:hover {
+    cursor: pointer;
+}
