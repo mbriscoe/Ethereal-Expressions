@@ -1,7 +1,23 @@
 /* INDEX/HOME PAGE STYLESHEET */
 
+/* INDEX/HOME PAGE STYLESHEET */
+.carousel-control-prev-icon {
+    background-color: orange;
+    border-radius: 10%;
+}
+
+.carousel-control-next-icon {
+    background-color: orange;
+    border-radius: 10%;
+}
+
+
+.carousel-control-prev {
+    
+}
+
 .carousel .carousel-item {
-    height: 500px;
+    height: 400px;
   }
   
   .carousel-item img {
@@ -9,5 +25,43 @@
       object-fit: cover;
       top: 0;
       left: 0;
-      min-height: 500px;
+      min-height: 400px;
   }
+ 
+  #circle-cover-bg {
+    background: url(../images/artist_portrait.png) no-repeat top center / cover;
+    width: 90vh;
+    height: 90vh;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+#artist-image-home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    
+    /* background: rgb(132,94,194);
+    background: linear-gradient(90deg, rgba(132,94,194,1) 0%, rgba(196,147,255,1) 15%, rgba(234,241,195,1) 35%, rgba(254,254,223,1) 62%, rgba(164,21,50,1) 100%); */
+
+
+    background: rgb(132,94,194);
+    background: linear-gradient(90deg, rgba(132,94,194,1) 0%, rgba(196,147,255,1) 15%, rgba(241,195,233,1) 35%, rgba(252,223,254,1) 62%, rgba(164,21,50,1) 100%);
+} 
+
+#home-image-paragraph-1, #home-image-paragraph-2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#mobile-top-image {
+    height: 300px;
+}
+
+.img-thumbnail {
+    border-color: red;
+}
+
