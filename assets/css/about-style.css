@@ -1,23 +1,42 @@
 /* ABOUT PAGE STYLESHEET */
 
-.about-h1 {
+
+/*About General styles*/
+h1 {
     text-align: center;
 }
 
-.about-artist { 
-   background-image: url('../images/artist_portrait.png') no-repeat top center / cover;  
-    
-   
-    
-
+p {
+    text-align: justify;
 }
-    .about-painting-one {
 
-        background-image: url('../images/collections/h/h1.webp')no-repeat top center / cover; 
-        
-    /* background: url ('../images/collections/h/h1.webp') no-repeat top center / cover;
-     background: url('../images/artist_portrait.png') no-repeat top center / cover;
-    */
+/*section one*/
+
+.about-section-one .about-div-one {
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
+
+/*section two*/
+
+.about-section-one .about-div-two {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+
+/*section three*/
+
+.about-section-one .about-div-five 
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.about-image {
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 /*
