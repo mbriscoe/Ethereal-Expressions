@@ -69,7 +69,7 @@ The contact page is comprised of two parts. First, there is a contact form for u
 
 The second part of the page deals with contact details for the artist giving a portrait photo, contact details and an embedded map showing her location.
 
-This page was structured using bootstrap., drawing upon W3Schools' [page](https://www.w3schools.com/bootstrap/bootstrap_forms.asp) which covers the necessary built-in classes.
+This page was structured using bootstrap.
 
 
 
