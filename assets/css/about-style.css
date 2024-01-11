@@ -24,11 +24,7 @@ p {
     padding-bottom: 5%;
 }
 
-.about-artist { 
-   background: url(../images/artist_portrait.png)
-    
-   
-}
+
 
 /*section three*/
 
@@ -38,13 +34,9 @@ p {
     padding-bottom: 5%;
 }
 
-.about-painting-one {
-
-        background-image: url ('../images/collections/h/h1.webp')no-repeat top center / cover; 
-        
-    /* background: url ('../images/collections/h/h1.webp') no-repeat top center / cover;
-     background: url('../images/artist_portrait.png') no-repeat top center / cover;
-    */
+.about-image {
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 /*
