@@ -215,6 +215,6 @@ As a user, I can see a pop-out confirmation of my submission on the contact form
 
 Create a modal on the contact form so that users get visual feedback that their message has been received by the artist.
 
-A Team WouldaShouldaCoulda Production
+A Team ShouldaWouldaCoulda Production
 
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/e9c4aed7-5fed-46ff-99bd-06011316472c" style="width:100%;">
