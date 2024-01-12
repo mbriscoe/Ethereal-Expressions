@@ -48,6 +48,9 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 - As a user, I can click gallery, so that I can see examples of the work.
   - The gallery page displays eight collections, each of four images. The user can click on each image to view the artwork full-size.
 
+As can be seen from the project board, the completed sprint was composed of 17 separate items. Having used the MoSCoW approach to prioritisation, 10 were classified as "Must-Have" making up less than 60% of the tasks as recommended. The rest of the first sprint was made up of "Should-Have", "Could-Have" and bug fixes.
+The project backlog contains several "Could-Have" user stories and two "Won't Have" items.
+
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/cea3c3e8-7df9-4fb9-8418-7d43bef02a95" style="width:100%;">
 
 <a id="features"></a>
