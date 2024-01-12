@@ -106,6 +106,9 @@ This page was structured using bootstrap.
 <a id="testing"></a>
 ## Testing
 
+### Manual Testing
+<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/c0e89b6c-78a8-42a2-8b48-bc6b39ac513e" style="width:100%;">
+
 ### Lighthouse
 The site was tested using Lighthouse with the following results:
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/ed031055-ecac-4a09-93e0-d9710011e550" style="width:70%;">
