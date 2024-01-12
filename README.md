@@ -17,7 +17,7 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 5. [Deployment](#deployment)
 6. [Credits/Technologies Used](#credits)
 7. [Future Features](#future-features)
-8. 
+
 <a id="ux-design"></a>
 ## UX Design
 
