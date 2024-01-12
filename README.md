@@ -57,6 +57,8 @@ The footer layout was created using CSS flex.
 
 ### About Page
 
+The About page is compounded by two pictures, followed by two pieces of text. Bootstrap grid has been used to fit them on the page and make them responsive. For smaller devices, the elements collapse one on top of each other, having the images at the top and the bottom, and the text, in the center.  For devices with higher resolution such as tablets, laptops and desk computers, the elements expand evenly in two rows, and each element takes  50 per cent of the space available.
+
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/0e44e6d5-6efe-49ae-8c16-ed46b25fc010" style="width:70%;">
 
 
