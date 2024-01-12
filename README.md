@@ -80,25 +80,26 @@ This page was structured using bootstrap.
 
 ## Testing
 
+### Lighthouse
+The site was tested using Lighthouse with the following results:
+<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/ed031055-ecac-4a09-93e0-d9710011e550" style="width:70%;">
+
+
 ### Responsive Testing
 
 Alongside the built in Bootstrap responsive CSS, media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the site was manually viewed on laptops, tablets and phones.
 
-SCREENSHOTS
+<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/216eaf29-7853-4fe9-b3e1-4ed9ff705c84" style="width:70%;">
+
 
 ### Browser Compatibility
 The site was tested on the following browsers:
 - Chrome
-SCREENSHOT
-
 - Firefox
-SCREENSHOT
-
 - Edge
-SCREENSHOT
-
 - Opera
-SCREENSHOT
+<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/2104c398-4375-40d0-af15-25cba812c33e" style="width:70%;">
+
 
 ### Validator Testing
 
