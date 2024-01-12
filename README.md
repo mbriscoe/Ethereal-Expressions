@@ -22,7 +22,7 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 ### Contact Page Wireframe Design
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/43c32720-3191-4bc7-b94b-56b3765a1351" style="width:70%;">
 
-**User Stories**
+## User Stories
 
 - As a user, I can use the menu, so that I can navigate the site
 - As a user, I would to have easy access to the artist's social media links, so that I can quickly see the relevant pages and explore their art/online presence.
@@ -50,24 +50,24 @@ The footer layout was created using CSS flex.
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/3e936859-663d-4d57-9b4f-38e4c8627a01" style="width:70%;">
 
 
-- **Home Page**
+### Home Page
 
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/aa86ebb5-e68b-4e42-8536-4e605799fa10" style="width:70%;">
 
 
-- **About Page**
+### About Page
 
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/0e44e6d5-6efe-49ae-8c16-ed46b25fc010" style="width:70%;">
 
 
-- **Gallery Page**
+### Gallery Page
 
 The gallery page contains eight four-piece collections from the artist, displayed in a grid using Bootstrap CSS. The user can click on any of the pieces to see it full-size, and an on-hover shadow effect highlights image as the mouse passes over them.
 
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/5dea4234-8c38-4fd1-8e0c-2e863001c600" style="width:70%;">
 
 
-- **Contact Page**
+### Contact Page
 
 The contact page is comprised of two parts. First, there is a contact form for users to get in touch with the artist. This give options to submit either a general enquiry, a purchase enquiry or to contact about a commission. 
 
@@ -114,3 +114,4 @@ This page was structured using bootstrap.
 - However, it is worth mentioning that before generating our images, key aspects such as: the colour palette selection, the painting technique and the topics by which the different art collections would inspired,  all of these fundamental points, were the result of a dynamic creative process. Besides, our team was also in charge of the design of our protagonist character, its identity and collections. 
 
 - Apart from using IDDLE for most of the visual elements in the website, as well, our team decided to utilise specific suitable images for our carousel on our home page. Firstly,  we visited the website  Unsplash .com and selected images that could be expanded nicely. With our selected images prepared, our team manipulated their sizes with the help of Adobe Fireworks, an image manipulation program.
+
