@@ -82,7 +82,23 @@ This page was structured using bootstrap.
 
 ### Responsive Testing
 
-- Alongside the built in Bootstrap responsive CSS, media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the site was manually viewed on laptops, tablets and phones.
+Alongside the built in Bootstrap responsive CSS, media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the site was manually viewed on laptops, tablets and phones.
+
+SCREENSHOTS
+
+### Browser Compatibility
+The site was tested on the following browsers:
+- Chrome
+SCREENSHOT
+
+- Firefox
+SCREENSHOT
+
+- Edge
+SCREENSHOT
+
+- Opera
+SCREENSHOT
 
 ### Validator Testing
 
@@ -92,6 +108,12 @@ This page was structured using bootstrap.
 
 - CSS
   - No errors were found with our own CSS code when passing through the official Jigsaw validator. However, there were many errors found in the Bootstrap CSS code, which is a normal result.
+
+## Bugs
+All bug fixes were dealt with efficiently and cleanly.
+- BUG: contact page width issue
+- BUG: Footer overlapping content
+- BUG: Shading display on gallery page
 
 ## Deployment
 
