@@ -6,21 +6,24 @@ As far as the user is concerned, they should be able to view Adamma's work and c
 
 In terms of design, there should be a cohesive colour scheme and set of styles across the whole site to reiterate the artist's brand. Site layout should enhance rather than impede the user experience to give a welcoming, intuitive feel. Finally, the site layout should be responsive to enable easy navigation on all devices.
 
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/142e1d42-da4d-4aba-a683-342923bc8e1e" style="width:70%;">
+![amiresponsive-index](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/142e1d42-da4d-4aba-a683-342923bc8e1e)
 
 ## UX Design
 
 ### Home Page Wireframe Design
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/7a577631-48c3-41e1-b3ff-28ff473ac2f0" style="width:70%;">
+![home-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/7a577631-48c3-41e1-b3ff-28ff473ac2f0)
+
 
 ### About Page Wireframe Design
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/9f05638c-6ff9-413c-ac5d-20b5dd70235c" style="width:70%;">
+![about-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/9f05638c-6ff9-413c-ac5d-20b5dd70235c)
+
 
 ### Gallery Page Wireframe Design
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/126c0d7b-b504-4ca0-8e4d-d149d52c4b13" style="width:70%;">
+![gallery-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/126c0d7b-b504-4ca0-8e4d-d149d52c4b13)
+
 
 ### Contact Page Wireframe Design
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/43c32720-3191-4bc7-b94b-56b3765a1351" style="width:70%;">
+![contact-wireframe](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/43c32720-3191-4bc7-b94b-56b3765a1351)
 
 **User Stories**
 
@@ -40,31 +43,32 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 
 Navigation is provided via a bootstrap navbar. CSS code has been added to underline menu items on hover and tint the navbar for each page. Font Awesome icons have been added to each menu item to add visual clues.
 
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/6278e0e9-371f-4190-8527-9988f7a4d5c4" style="width:70%;">
+![readme-navbar](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/6278e0e9-371f-4190-8527-9988f7a4d5c4)
+
 
 - **The Footer**
 
 The page footer is arranged in 2 rows. The first row contains social media links for the site and the second row contains links to the site team's GitHub pages.
 The footer layout was created using CSS flex.  
 
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/3e936859-663d-4d57-9b4f-38e4c8627a01" style="width:70%;">
+![readme-footer](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/3e936859-663d-4d57-9b4f-38e4c8627a01)
 
 
 - **Home Page**
 
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/aa86ebb5-e68b-4e42-8536-4e605799fa10" style="width:70%;">
+![amiresponsive-index](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/aa86ebb5-e68b-4e42-8536-4e605799fa10)
 
 
 - **About Page**
 
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/0e44e6d5-6efe-49ae-8c16-ed46b25fc010" style="width:70%;">
+![amiresponsive-about](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/0e44e6d5-6efe-49ae-8c16-ed46b25fc010)
 
 
 - **Gallery Page**
 
 The gallery page contains eight four-piece collections from the artist, displayed in a grid using Bootstrap CSS. The user can click on any of the pieces to see it full-size, and an on-hover shadow effect highlights image as the mouse passes over them.
 
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/5dea4234-8c38-4fd1-8e0c-2e863001c600" style="width:70%;">
+![amiresponsive-gallery](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/5dea4234-8c38-4fd1-8e0c-2e863001c600)
 
 
 - **Contact Page**
@@ -75,7 +79,8 @@ The second part of the page deals with contact details for the artist giving a p
 
 This page was structured using bootstrap.
 
-<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/35aa091f-62d6-4557-a52a-05a543820609" style="width:70%;">
+![amiresponsive-contact](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/35aa091f-62d6-4557-a52a-05a543820609)
+
 
 
 ## Testing
@@ -88,16 +93,20 @@ This page was structured using bootstrap.
 
 - HTML
 
-  - No errors were returned when passing through the official [_W3C validator_](https://validator.w3.org/nu/?doc=https://mbriscoe.github.io/Ethereal-Expressions)
+  - No errors were returned when passing through the official [W3C validator] _(link to validator report)_
+
+  _(html validator image)_
 
 - CSS
-  - No errors were found with our own CSS code when passing through the official Jigsaw validator. However, there were many errors found in the Bootstrap CSS code, which is a normal result.
+  - No errors were found when passing through the official [(Jigsaw) validator] _(link to validator report)_
+
+_(css validator image)_
 
 ## Deployment
 
 - The site was deployed to GitHub pages from the main branch of the repository early in the developemnt stage for continuous deployment and checking.
 
-- The live link can be found [_here_](https://mbriscoe.github.io/Ethereal-Expressions/)
+- The live link can be found here - [_(live link)_](https://mbriscoe.github.io/Ethereal-Expressions/)
 
 ## Credits
 
