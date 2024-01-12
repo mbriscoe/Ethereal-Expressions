@@ -63,6 +63,10 @@ The footer layout was created using CSS flex.
 
 ### Home Page
 
+The Home page is formed by a carousel built on Bootstrap as the main element, a gradient banner, and two Bootstrap grids, the first one with two images and two pieces of text and the second one with  four images on the same row. The first element, the carousel is built up to catch the users' attention when they first visit the site and inform them about the content to expect through the site. Following the carousel, a banner works as a transitional element between the carousel and the content. 
+
+The gradient style of the banner uses the same colours as the images chosen for the first grid and its borders. Finally, the last point  is the use of representative images of the painter and her creative process taking place, in order to provide relevant visual information about the quality of the artist’s work.
+
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/aa86ebb5-e68b-4e42-8536-4e605799fa10" style="width:70%;">
 
 
