@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Meta tags for search engines -->
-    <meta name="description" content="Ethereal Expressions - The Art of A. A. Lloyd" />
-    <meta name="keywords" content="art, abstract art, painting, abstract painting, artist, abstract artist" />
+    <meta name="description" content="Ethereal Expressions - The Art of A. A. Lloyd">
+    <meta name="keywords" content="art, abstract art, painting, abstract painting, artist, abstract artist">
 
     <!-- BOOTSTRAP CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -60,153 +60,158 @@
 
         <!-- MAIN CONTENT -->
         <main class="container-fluid">
+            <!-- Image for Mobile -->
+            <div>
+                <img src="assets/images/collections/a/A01.jpg" id="mobile-top-image" class="d-block d-md-none w-100"
+                    alt="piece of abstract art">
+            </div>
+            <!-- Image for Mobile -->
 
-            <!-- Hero section -->
-            <section id="hero">
-                <!-- Image for Mobile -->
-                <div>
-                    <img src="assets/images/collections/a/A01.jpg" id="mobile-top-image" class="d-block d-md-none w-100"
-                        alt="piece of abstract art">
+
+            <!-- Carousel  -->
+            <div id="Main_Carousel" class="carousel slide d-none d-md-block" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#Main_Carousel" data-bs-slide-to="0" class="active"
+                        aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#Main_Carousel" data-bs-slide-to="1"
+                        aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#Main_Carousel" data-bs-slide-to="2"
+                        aria-label="Slide 3"></button>
                 </div>
-                <!-- Image for Mobile -->
-
-
-                <!-- Carousel  -->
-                <div id="Main_Carousel" class="carousel slide d-none d-md-block" data-bs-ride="carousel">
-                    <div class="carousel-indicators">
-                        <button type="button" data-bs-target="#Main_Carousel" data-bs-slide-to="0" class="active"
-                            aria-current="true" aria-label="Slide 1"></button>
-                        <button type="button" data-bs-target="#Main_Carousel" data-bs-slide-to="1"
-                            aria-label="Slide 2"></button>
-                        <button type="button" data-bs-target="#Main_Carousel" data-bs-slide-to="2"
-                            aria-label="Slide 3"></button>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="assets/images/frontpage/carousel-01.jpg" class="d-block w-100"
+                            alt="piece of abstract art">
+                        <div class="carousel-caption d-none">
+                            <h5>First slide label</h5>
+                            <p>Some representative placeholder content for the second slide.</p>
+                        </div>
                     </div>
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="assets/images/frontpage/carousel-01.jpg" class="d-block w-100"
-                                alt="piece of abstract art">
-                            <div class="carousel-caption d-none">
-                                <h5>First slide label</h5>
-                                <p>Some representative placeholder content for the second slide.</p>
-                            </div>
+                    <div class="carousel-item">
+                        <img src="assets/images/frontpage/carousel-02.jpg" class="d-block w-100"
+                            alt="piece of abstract art">
+                        <div class="carousel-caption d-none">
+                            <h5>Second slide label</h5>
+                            <p>Some representative placeholder content for the second slide.</p>
                         </div>
-                        <div class="carousel-item">
-                            <img src="assets/images/frontpage/carousel-02.jpg" class="d-block w-100"
-                                alt="piece of abstract art">
-                            <div class="carousel-caption d-none">
-                                <h5>Second slide label</h5>
-                                <p>Some representative placeholder content for the second slide.</p>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="assets/images/frontpage/carousel-03.jpg" class="d-block w-100"
-                                alt="piece of abstract art">
-                            <div class="carousel-caption d-none">
-                                <h5>Third slide label</h5>
-                                <p>Some representative placeholder content for the third slide.</p>
-                            </div>
-                        </div>
-
                     </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#Main_Carousel"
-                        data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#Main_Carousel"
-                        data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
+                    <div class="carousel-item">
+                        <img src="assets/images/frontpage/carousel-03.jpg" class="d-block w-100"
+                            alt="piece of abstract art">
+                        <div class="carousel-caption d-none">
+                            <h5>Third slide label</h5>
+                            <p>Some representative placeholder content for the third slide.</p>
+                        </div>
+                    </div>
+
                 </div>
-                <!--/ Carousel  -->
+                <button class="carousel-control-prev" type="button" data-bs-target="#Main_Carousel"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#Main_Carousel"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+            <!--/ Carousel  -->
 
-                <section class="container home-main-section">
-                    <!--Artist Circular Image-->
-                    <div id="page-title">
-                        <h1 class="text-center home-main-heading"><i
-                                class="bi bi-brush-fill home-heading-icon-color1"></i> Ethereal Expressions <i
-                                class="bi bi-easel home-heading-icon-color2"></i></h1>
-                    </div>
-                    <div id="artist-image-home">
-                        <div id="circle-cover-bg"></div>
-                    </div>
-                    <!--Artist Circular Image-->
+            <section class="container home-main-section">
+                <!--Artist Circular Image-->
+                <div id="page-title">
+                    <h1 class="text-center home-main-heading"><i class="bi bi-brush-fill home-heading-icon-color1"></i>
+                        Ethereal Expressions <i class="bi bi-easel home-heading-icon-color2"></i></h1>
+                </div>
+                <div id="artist-image-home">
+                    <div id="circle-cover-bg"></div>
+                </div>
+                <!--Artist Circular Image-->
 
-                    <!-- Image and Paragraph Section /-->
-                    <div class="row my-5 align-items-center" id="home-image-paragraph-1">
-                        <div class="col-md-7 text-left home-image-paragraph-section-1">
-                            <p>
-                                <strong><em>From Paris to New York both,</strong> Adamma's art captivated critics,
+                <!-- Image and Paragraph Section /-->
+                <div class="row my-5 align-items-center" id="home-image-paragraph-1">
+                    <div class="col-md-7 text-left home-image-paragraph-section-1">
+                        <p>
+                            <em><strong>From Paris to New York both,</strong> Adamma's art captivated critics,
                                 artists
                                 and public. Her
                                 figure has represented a fresh breeze for the artistic sphere.</em>
-                                <hr class="coloured-rule-2">
-                                Using the impasto technique with a delicious palette, Adamma managed to capture the
-                                beauty of the Welsh coast and Countryside, the silky textures of
-                                the Nigerian Gele and the vibrant and exquisite colours of Nigerian Iborum, Buba and
-                                Iro.
-                            </p>
-                        </div>
-                        <div class="col-md-5">
+                        </p>
+                        <hr class="coloured-rule-2">
+                        <p>Using the impasto technique with a delicious palette, Adamma managed to capture the
+                            beauty of the Welsh coast and Countryside, the silky textures of
+                            the Nigerian Gele and the vibrant and exquisite colours of Nigerian Iborum, Buba and
+                            Iro.
+                        </p>
 
-                            <img src="assets/images/frontpage/frontpage-06.jpg"
-                                class="img-fluid img-thumbnail thumbnail-purple" alt="piece of abstract art">
-                        </div>
                     </div>
+                    <div class="col-md-5">
 
-                    <div class="row my-5 align-items-center" id="home-image-paragraph-2">
-                        <div class="col-md-5">
-                            <img src="assets/images/frontpage/frontpage-05.jpg"
-                                class="img-fluid img-thumbnail thumbnail-red" alt="piece of abstract art">
-                        </div>
-                        <div class="col-md-7 text-end home-image-paragraph-section-2 mt-5">
-                            <p>
-                                <Strong><em>When art belongs to the observer,</Strong> it becomes the most extraordinary
+                        <img src="assets/images/frontpage/frontpage-06.jpg"
+                            class="img-fluid img-thumbnail thumbnail-purple" alt="piece of abstract art">
+                    </div>
+                </div>
+
+                <div class="row my-5 align-items-center" id="home-image-paragraph-2">
+                    <div class="col-md-5">
+                        <img src="assets/images/frontpage/frontpage-05.jpg"
+                            class="img-fluid img-thumbnail thumbnail-red" alt="piece of abstract art">
+                    </div>
+                    <div class="col-md-7 home-image-paragraph-section-2 mt-5">
+                        <p>
+                            <em><Strong>When art belongs to the observer,</Strong> it becomes the most extraordinary
                                 form of catharsis</em>
-                                <hr class="coloured-rule-1">
-                                Abstraction allows man to see with his mind what he cannot physically see with his
-                                eyes... Abstract art enables the artist to perceive beyond the tangible, to extract the
-                                infinite out of the finite. It is the emancipation of the mind. It is an explosion into
-                                unknown areas.
-                            </p>
+                        </p>
+                        <hr class="coloured-rule-1">
+                        <p>Abstraction allows man to see with his mind what he cannot physically see with his
+                            eyes... Abstract art enables the artist to perceive beyond the tangible, to extract the
+                            infinite out of the finite. It is the emancipation of the mind. It is an explosion into
+                            unknown areas. <em>Arshile Gorky</em>
+                        </p>
+                    </div>
+                </div>
+                <!--/ Image and Paragraph Section /-->
+
+                <!--/ Bottom Image Section /-->
+
+                <div class="row mt-5 justify-content-around">
+
+                    <div class="col-xs-12 col-md-6 col-lg-3">
+                        <div class="home-collection-image-box">
+                            <img src="assets/images/frontpage/frontpage-01.jpg" alt="Home Page piece of abstract art"
+                                class="home-bottom-image-section">
                         </div>
                     </div>
-                    <!--/ Image and Paragraph Section /-->
-
-                    <!--/ Bottom Image Section /-->
-
-                    <div class="row mt-5 justify-content-around">
-
-                        <div class="col-xs-12 col-md-6 col-lg-3">
-                            <div class="home-collection-image-box">
-                                <img src="assets/images/frontpage/frontpage-01.jpg"
-                                    alt="Home Page piece of abstract art" class="home-bottom-image-section">
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-md-6 col-lg-3">
-                            <div class="home-collection-image-box">
-                                <img src="assets/images/frontpage/frontpage-02.jpg"
-                                    alt="Home Page piece of abstract art" class="home-bottom-image-section">
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-md-6 col-lg-3">
-                            <div class="home-collection-image-box">
-                                <img src="assets/images/frontpage/frontpage-03.jpg"
-                                    alt="Home Page piece of abstract art" class="home-bottom-image-section">
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-md-6 col-lg-3">
-                            <div class="home-collection-image-box">
-                                <img src="assets/images/frontpage/frontpage-04.jpg"
-                                    alt="Home Page piece of abstract art" class="home-bottom-image-section">
-                            </div>
+                    <div class="col-xs-12 col-md-6 col-lg-3">
+                        <div class="home-collection-image-box">
+                            <img src="assets/images/frontpage/frontpage-02.jpg" alt="Home Page piece of abstract art"
+                                class="home-bottom-image-section">
                         </div>
                     </div>
-                    <!--/ Bottom Image Section /-->
-                </section>
+                    <div class="col-xs-12 col-md-6 col-lg-3">
+                        <div class="home-collection-image-box">
+                            <img src="assets/images/frontpage/frontpage-03.jpg" alt="Home Page piece of abstract art"
+                                class="home-bottom-image-section">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6 col-lg-3">
+                        <div class="home-collection-image-box">
+                            <img src="assets/images/frontpage/frontpage-04.jpg" alt="Home Page piece of abstract art"
+                                class="home-bottom-image-section">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="col-xs-12 col-md-6 col-lg-3 mt-5">
+                        <div class="home-collection-image-box">
+                            <p>Loving created by...</p>
+                            <img src="assets/images/teamLogo.jpg" alt="Dev Team Logo" class="home-bottom-image-section">
+                        </div>
+                    </div>
+                </div>
+                <!--/ Bottom Image Section /-->
+
             </section>
-
         </main>
 
         <!-- FOOTER -->
