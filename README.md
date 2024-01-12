@@ -16,7 +16,8 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 4. [Testing](#testing)
 5. [Deployment](#deployment)
 6. [Credits/Technologies Used](#credits)
-
+7. [Future Features](#future-features)
+8. 
 <a id="ux-design"></a>
 ## UX Design
 
@@ -169,6 +170,7 @@ All bug fixes were dealt with efficiently and cleanly.
 
 - Apart from using IDDLE for most of the visual elements in the website, as well, our team decided to utilise specific suitable images for our carousel on our home page. Firstly,  we visited the website  Unsplash .com and selected images that could be expanded nicely. With our selected images prepared, our team manipulated their sizes with the help of Adobe Fireworks, an image manipulation program.
 
+<a id="future-features"></a>
 ## Future Features
 
 There are various features and user stories that we were not able to implement due to time constraints, but would be added in future iterations of the website.
@@ -204,6 +206,14 @@ As a user, I can click on a carousel image, so that I can view a specific galler
 ### Associated Feature
 
 Add links to the carousel images that take the user to the associated gallery page. 
+
+### User Story - Contact Form Submission Modal
+
+As a user, I can see a pop-out confirmation of my submission on the contact form, so that I can be sure that the artist will receive my message
+
+### Associated Feature
+
+Create a modal on the contact form so that users get visual feedback that their message has been received by the artist.
 
 A Team WouldaShouldaCoulda Production
 
