@@ -8,6 +8,7 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 
 ![amiresponsive-index](https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/142e1d42-da4d-4aba-a683-342923bc8e1e)
 
+<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/142e1d42-da4d-4aba-a683-342923bc8e1e" style="width:50%;">
 
 ## UX Design
 
