@@ -48,6 +48,8 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 - As a user, I can click gallery, so that I can see examples of the work.
   - The gallery page displays eight collections, each of four images. The user can click on each image to view the artwork full-size.
 
+<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/cea3c3e8-7df9-4fb9-8418-7d43bef02a95" style="width:100%;">
+
 <a id="features"></a>
 ## Features
 
