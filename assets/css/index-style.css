@@ -2,7 +2,7 @@
 
 /* ---------CAROUSEL*/
 
-/* Carousel Control Icons */ 
+/* Carousel Control Icons */
 .carousel-control-prev-icon {
     background-color: rgb(132, 94, 194);
     border-radius: 10%;
@@ -36,7 +36,7 @@
 }
 
 .home-heading-icon-color1 {
-    color:rgb(132, 94, 194);
+    color: rgb(132, 94, 194);
 }
 
 .home-heading-icon-color2 {
@@ -46,6 +46,7 @@
 .home-main-section {
     padding-bottom: 120px;
 }
+
 .home-main-heading {
     padding-bottom: 20px;
 }
@@ -89,20 +90,22 @@
 .thumbnail-red {
     border: 2px solid red;
 }
+
 .thumbnail-purple {
     border: 2px solid rgb(132, 94, 194);
 }
 
-.home-image-paragraph-section-1 p,
-.home-image-paragraph-section-2 p {
+.home-image-paragraph-section-1 p:first-of-type,
+.home-image-paragraph-section-2 p:first-of-type {
     font-size: 1.5em;
 }
 
 .coloured-rule-1 {
-    border: 2px solid red;  
+    border: 2px solid red;
 }
+
 .coloured-rule-2 {
-    border: 2px solid rgb(132, 94, 194);  
+    border: 2px solid rgb(132, 94, 194);
 }
 
 
@@ -113,6 +116,6 @@
     width: 100%;
 }
 
-.home-bottom-image-section{
+.home-bottom-image-section {
     width: 100%;
 }
