@@ -166,6 +166,42 @@ All bug fixes were dealt with efficiently and cleanly.
 
 - Apart from using IDDLE for most of the visual elements in the website, as well, our team decided to utilise specific suitable images for our carousel on our home page. Firstly,  we visited the website  Unsplash .com and selected images that could be expanded nicely. With our selected images prepared, our team manipulated their sizes with the help of Adobe Fireworks, an image manipulation program.
 
+## Future Features
+
+There are various features and user stories that we were not able to implement due to time constraints, but would be added in future iterations of the website.
+
+### User Story - Make purchase
+
+As a user, I can add to cart, so that I can purchase artwork
+
+### Associated Feature
+
+Add an add to cart button to each piece of art that is for sale along with adding the relevant pricing next to each piece. 
+
+### User Story - Theme Button
+
+As a user, I want to be able to change the overall theme of the site, so that I can get an idea of what different pieces look like on different backdrops etc
+ 
+### Associated Feature
+
+Add a website theme button which alters the colour scheme of the site so that users can visualise what different pieces look like against different backdrops
+
+### User Story - Video Demonstration 
+
+As a user, I would like to see some short videos of the artist at work and video interviews with the artist, so that I can get a real look at how they work and what they are like.
+
+### Associated Feature
+
+Add a section in the about me page with videos of the artist during the creative process and video interviews giving an overview of the artist’s inspirations, background and personality.
+
+### User Story - Carousel Link
+
+As a user, I can click on a carousel image, so that I can view a specific gallery category
+
+### Associated Feature
+
+Add links to the carousel images that take the user to the associated gallery page. 
+
 A Team WouldaShouldaCoulda Production
 
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/e9c4aed7-5fed-46ff-99bd-06011316472c" style="width:100%;">
