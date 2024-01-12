@@ -8,6 +8,16 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/142e1d42-da4d-4aba-a683-342923bc8e1e" style="width:70%;">
 
+# Contents
+
+1. [UX Design](#ux-design)
+2. [User Stories](#user-stories)
+3. [Features](#features)
+4. [Testing](#testing)
+5. [Deployment](#deployment)
+6. [Credits/Technologies Used](#credits)
+
+<a id="ux-design"></a>
 ## UX Design
 
 ### Home Page Wireframe Design
@@ -22,6 +32,7 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 ### Contact Page Wireframe Design
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/43c32720-3191-4bc7-b94b-56b3765a1351" style="width:70%;">
 
+<a id="user-stories"></a>
 ## User Stories
 
 - As a user, I can use the menu, so that I can navigate the site
@@ -33,7 +44,7 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 - As a user, I can read titles on slides, so that I know which painting they come from
 - As a user, I can click on a carousel image, so that I can view a specific gallery category
 
-
+<a id="features"></a>
 ## Features
 
 - **Navigation Bar**
@@ -79,7 +90,7 @@ This page was structured using bootstrap.
 
 <img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/35aa091f-62d6-4557-a52a-05a543820609" style="width:70%;">
 
-
+<a id="testing"></a>
 ## Testing
 
 ### Lighthouse
@@ -118,12 +129,14 @@ All bug fixes were dealt with efficiently and cleanly.
 - BUG: Footer overlapping content
 - BUG: Shading display on gallery page
 
+<a id="deployment"></a>
 ## Deployment
 
 - The site was deployed to GitHub pages from the main branch of the repository early in the developemnt stage for continuous deployment and checking.
 
 - The live link can be found [_here_](https://mbriscoe.github.io/Ethereal-Expressions/)
 
+<a id="credits"></a>
 ## Credits
 
 ### Content
