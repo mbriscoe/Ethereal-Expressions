@@ -163,3 +163,6 @@ All bug fixes were dealt with efficiently and cleanly.
 
 - Apart from using IDDLE for most of the visual elements in the website, as well, our team decided to utilise specific suitable images for our carousel on our home page. Firstly,  we visited the website  Unsplash .com and selected images that could be expanded nicely. With our selected images prepared, our team manipulated their sizes with the help of Adobe Fireworks, an image manipulation program.
 
+A Team WouldaShouldaCoulda Production
+
+<img src="https://github.com/mbriscoe/Ethereal-Expressions/assets/86828720/e9c4aed7-5fed-46ff-99bd-06011316472c" style="width:100%;">
