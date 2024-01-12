@@ -35,14 +35,18 @@ In terms of design, there should be a cohesive colour scheme and set of styles a
 <a id="user-stories"></a>
 ## User Stories
 
-- As a user, I can use the menu, so that I can navigate the site
+- As a user, I can use the menu, so that I can navigate the site.
+  - The navigation bar feature contains clearly visible clickable links to the different site pages.
 - As a user, I would to have easy access to the artist's social media links, so that I can quickly see the relevant pages and explore their art/online presence.
-- As a user, I can click contact, so that I can contact the artist
-- As a user, I can view the home, so that I can see what the site is about
-- As a user, I can click on about menu, so that I can see the creative process
-- As a user, I can click gallery, so that I can see examples of the work
-- As a user, I can read titles on slides, so that I know which painting they come from
-- As a user, I can click on a carousel image, so that I can view a specific gallery category
+  - Social media links for the artist are visible in the footer on all pages across the website.
+- As a user, I can click contact, so that I can contact the artist.
+  - The contact page, accessible from any page via its navigation bar link, contains a contact form for users to get in touch. Also provided on this page are the artist's contact details: telephone number and location.
+- As a user, I can view the home, so that I can see what the site is about.
+  - The home page is the landing page of the site, and introduces the user to the artist using both text and images. This is accessible from other pages via its navigation bar link.
+- As a user, I can click on about menu, so that I can understand more about the artist.
+  - The about page gives a more complete introduction to the artist so that the user can be more familiar with them and the context of their work.
+- As a user, I can click gallery, so that I can see examples of the work.
+  - The gallery page displays eight collections, each of four images. The user can click on each image to view the artwork full-size.
 
 <a id="features"></a>
 ## Features
