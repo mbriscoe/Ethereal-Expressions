@@ -27,7 +27,6 @@
     cursor: pointer;
     filter: none;
     transition: filter 1s;
-    /*border: 2px solid black;*/
 }
 
 .gallery-collection-image-box:hover {
