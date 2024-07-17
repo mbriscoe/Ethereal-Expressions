@@ -20,7 +20,6 @@
     width: 100%;
     filter: grayscale(50%);
     transition: filter 1s;
-    ;
 }
 
 .gallery-collection-image:hover {
